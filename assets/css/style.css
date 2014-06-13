@@ -178,8 +178,9 @@ nav a:hover {
 body { padding:0 }
 .toc { float:none}
 nav {
-    position:absolute;
-    bottom:-2.15em;
-    right:0;
+    float: right;
+    /*position:absolute;*/
+    /*bottom:-2.15em;*/
+    /*right:0;*/
 }
-}	
+}
